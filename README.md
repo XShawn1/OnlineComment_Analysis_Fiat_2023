@@ -5,7 +5,7 @@ The research project within this repo was conducted by Chuqiao Xiao, which is ba
 ## Data Source
 SpeakEV - an online forum for EV (electric vehicle) enthusiasts
 ## Research Objectives & Approaches
-The project aims to understand how online customer perceptions on EV topics evolve over time. The focus of the project is to compare how customer perceptions differ before & after a EV was launched.
+The project aims to understand how online customer perceptions on EV topics evolve over time. The focus of the project is to compare how customer perceptions differ before & after an EV model was launched.
 
 - In the 1st phase the online comments were scrapped by Python; 
 
