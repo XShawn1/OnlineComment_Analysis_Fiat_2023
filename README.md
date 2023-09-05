@@ -1,5 +1,5 @@
 # OnlineComment_Analysis_Fiat_2023
-An online comment NLP analysis based on Topic Model &amp; Sentiment Analysis
+An online comment NLP analysis based on Topic Model & Sentiment Analysis regarding Fiat electrification
 ## Acknowledgement
 The research project within this repo was conducted by Chuqiao Xiao, which is based on one of the working branches of the Bayes (Cass) Business School MSc Business Analytics 2023 graduation group project by Chuqiao Xiao
 ## Data Source
