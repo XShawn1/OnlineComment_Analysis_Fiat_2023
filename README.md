@@ -22,7 +22,8 @@ The project aims to understand how online customer perceptions on EV topics evol
 **BI tools**: Matplotlib, PowerBI
 ## Research Objects (Brands)
 Online discussions regarding EVs by Fiat, Peugeot, Tesla, Mini, Volkswagen
-## Research Results
-- It’s recognised that customers are focusing more on EV features (e.g., battery, driving range, charging facilities) in recent years and can be sensitive to EV prices.
-- Some brands’ strategies on developing intelligent systems can intrigue customers’ interests.
+## Research Results & Suggestions
+- It’s recognised that customers are getting more interested in EV characteristics (e.g., battery, driving range, charging facilities) in recent years. It's suggested that Fiat Abarth focus on elaborating how their techs on these electric features develop and get improved on their websites and in their showcases.
+- Customers can be sensitive to EV prices. The advise to Fiat Abarth is that the company breakdown EV ownership costs to increase buyer trust and clarity. Alternatively, take a price reduction strategy or offer discounts to customers during the first 3 months after the car was released.
+- Some competitors’ strategies on developing intelligent systems and car automation intrigue customers’ interests, suggesting a future R&D direciton to Fiat Abarth.
 - Customer perceptions on some granular EV features remain unclear.
