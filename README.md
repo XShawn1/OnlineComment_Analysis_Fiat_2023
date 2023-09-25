@@ -11,7 +11,7 @@ The project aims to understand how online customer perceptions on EV topics evol
 
 - In the 2nd phase the NLP technologies were applied to process data then output the model results; 
 
-- In the 3rd phase the results were visulaised through both Python and PowerBI; 
+- In the 3rd phase the results were visualised through both Python and PowerBI; 
 
 - In the last phase the results & visualisations were analysed and insights were concluded
 
